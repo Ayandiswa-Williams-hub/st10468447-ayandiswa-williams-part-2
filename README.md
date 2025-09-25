@@ -20,12 +20,17 @@ In Part 2 of the project, the following improvements were made:
 
 ## Screenshots
 ### Desktop
+<img width="1919" height="1098" alt="Screenshot 2025-09-25 163054" src="https://github.com/user-attachments/assets/3a36a762-ff10-49f9-aa6e-93f9a2114a5a" />
 
 
 ### Tablet
+<img width="1912" height="1090" alt="Screenshot 2025-09-25 162817" src="https://github.com/user-attachments/assets/a0448129-5e0b-46a4-a0a7-3d0092fdc404" />
 
 
 ### Mobile
+<img width="1915" height="1096" alt="Screenshot 2025-09-25 162950" src="https://github.com/user-attachments/assets/0fc51fe4-8a30-4911-8901-f04e87eb8ebc" />
+
+
 
 
 ## Changelog
