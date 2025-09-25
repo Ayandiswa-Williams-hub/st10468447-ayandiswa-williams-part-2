@@ -20,13 +20,13 @@ In Part 2 of the project, the following improvements were made:
 
 ## Screenshots
 ### Desktop
-![Desktop Screenshot]
+
 
 ### Tablet
-![Tablet Screenshot](screenshots/tablet.png)
+
 
 ### Mobile
-![Mobile Screenshot](screenshots/mobile.png)
+
 
 ## Changelog
 See [CHANGELOG.md](CHANGELOG.md) for detailed updates.
