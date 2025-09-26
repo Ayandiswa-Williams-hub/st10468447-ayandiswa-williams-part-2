@@ -32,6 +32,5 @@ In Part 2 of the project, the following improvements were made:
 
 
 
-
 ## Changelog
 See [CHANGELOG.md](CHANGELOG.md) for detailed updates.
